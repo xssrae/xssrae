@@ -2,7 +2,7 @@
 <img src="https://media0.giphy.com/media/4GWmvKBiml8vPQUchI/giphy.gif?cid=ecf05e478vu1k954m2svipgdg4nzv85o8qgc8wdfzp6flvai&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="150" height="150"/>
 </div>
 
-- 💜 Cybersecurity Analyst, focus on Sewcurity Engineering.
+- 💜 Cybersecurity Analyst, focus on Security Engineering.
 - 💻 Current working as Infrastructure Intern and Red Team Volunter.
 - 🐱 My favorite theme in _everything_ is [Catppuccin](https://github.com/catppuccin)
 - 🕵️‍♀️ Studing Reverse Engineering and Malware Analysis
