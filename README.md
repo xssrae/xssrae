@@ -5,7 +5,7 @@
 - 💜 Cybersecurity Analyst, focus on Security Engineering.
 - 💻 Current working as Infrastructure Intern and Red Team Volunter.
 - 🐱 My favorite theme in _everything_ is [Catppuccin](https://github.com/catppuccin)
-- 🕵️‍♀️ Studing Reverse Engineering and Malware Analysis
+- 🕵️‍♀️ Studing Malware Analysis and Reverse Engineering.
 
 <h3> 
   <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Cloud%20with%20Rain.png" width="20" height="20" /> Technologies
