@@ -3,7 +3,7 @@
 </div>
 
 - 💜 Cybersecurity Analyst, focus on Security Engineering.
-- 💻 Current working as Infrastructure Intern.
+- 💻 Current working as Support Analyst.
 - 🐱 My favorite theme in _everything_ is [Catppuccin](https://github.com/catppuccin)
 - 🕵️‍♀️ Studing Malware Analysis and Reverse Engineering.
 
