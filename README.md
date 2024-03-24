@@ -27,6 +27,4 @@
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px" />
 </div>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xssrae&theme=catppuccin-mocha&hide_border=true&mode=weekly&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-</div>
-</div>
+
