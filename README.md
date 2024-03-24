@@ -22,8 +22,7 @@
   <img src="https://img.shields.io/badge/Docker-24273a.svg?style=for-the-badge&logo=docker&logoColor=#2da9e3"/>
   <img src="https://img.shields.io/badge/AWS-24273a?logo=amazon-aws&logoColor=e69f2e&style=for-the-badge" alt="AWS">
   <img src="https://img.shields.io/badge/Azure-24273a?logo=microsoft-azure&logoColor=2aaeeb&style=for-the-badge" alt="AWS">
-  <img src="https://img.shields.io/badge/Git-24273a?logo=git&logoColor=F05032&style=for-the-badge"/>
-<br/>
+
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px" />
 </div>
