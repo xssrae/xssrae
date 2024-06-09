@@ -11,10 +11,10 @@
   <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Cloud%20with%20Rain.png" width="20" height="20" /> Technologies I use:
 </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-24273a?logo=python&style=for-the-badge&logoColor=3776AB"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Java-24273a.svg?style=for-the-badge&logo=java-bold&logoColor=E0144C"/>
   <img src="https://img.shields.io/badge/arch-24273a?logo=archlinux&style=for-the-badge&logoColor=3284db"/>
   <img src="https://img.shields.io/badge/android-24273a?logo=android&style=for-the-badge&logoColor=41C464">
+  <img src="https://img.shields.io/badge/Python-24273a?logo=python&style=for-the-badge&logoColor=3776AB"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Java-24273a.svg?style=for-the-badge&logo=java-bold&logoColor=E0144C"/>
   <img src="https://img.shields.io/badge/bash-24273a?logo=gnu-bash&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Windows-24273a?style=for-the-badge&logo=windows&logoColor=30B9E3"/>
   <img src="https://img.shields.io/badge/Docker-24273a.svg?style=for-the-badge&logo=docker&logoColor=#2da9e3"/>
