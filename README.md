@@ -2,9 +2,10 @@
 <img src="https://media0.giphy.com/media/4GWmvKBiml8vPQUchI/giphy.gif?cid=ecf05e478vu1k954m2svipgdg4nzv85o8qgc8wdfzp6flvai&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="150" height="150"/>
 </div>
 
-- 💜 Cybersecurity Analyst, focus on Malware Analysis and Security Engineering.
+- :mortar_board: Computer Science Student, curious about various topics
+- :computer: Current working as Software Engineer Intern at Itaú Unibanco
+- 💜 Cybersecurity Analyst, focus on Malware Analysis, Reverse Engineering and Mobile Threats
 - 🐱 My favorite theme in _everything_ is [Catppuccin](https://github.com/catppuccin)
-- 🕵️‍♀️ Studing Malware Analysis, Android Architecture and Reverse Engineering.
 
 <h3> 
   <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Cloud%20with%20Rain.png" width="20" height="20" /> Technologies
