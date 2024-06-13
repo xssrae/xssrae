@@ -3,7 +3,7 @@
 </div>
 
 - :mortar_board: Computer Science Student, curious about various topics
-- :computer: Current working as Software Engineer Intern at Itaú Unibanco
+- :computer: Current working as Software Developer Intern at Itaú Unibanco
 - 💜 Cybersecurity Analyst, focus on Malware Analysis, Reverse Engineering and Mobile Threats
 - 🐱 My favorite theme in _everything_ is [Catppuccin](https://github.com/catppuccin)
 
