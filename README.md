@@ -13,7 +13,7 @@
       <br>
       <br>
       langs:<br>
-          > java, kotlin, python, c/c++, bash, powershell, assembly, golang, typescript.
+          > java, kotlin, python, golang, typescript, c/c++, bash, powershell, assembly.
       <br>
       <br>
       os:<br>
