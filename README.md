@@ -9,11 +9,11 @@
              - she/her, brazilian, pt-br + eng + learning russian<br>
              - computer science student<br>
              - working as IT engineering intern.<br>
-             - cybersecurity researcher - malware analyst with focus on mobile threats.<br>
+             - cybersecurity researcher - malware analyst with focus on mobile threats & appsec.<br>
       <br>
       <br>
-      langs:<br>
-          > java, kotlin, python, golang, typescript, c/c++, bash, powershell, assembly.
+      langs && frameworks:<br>
+          > java, kotlin, spring boot, aws, terraform, datadog, python, golang, c/c++, bash, powershell, assembly.
       <br>
       <br>
       os:<br>
