@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://github.com/xssrae/xssrae/blob/main/side_imgs/img6.jpg" width="500" align="left">
+ <img src="https://github.com/xssrae/xssrae/blob/main/side_imgs/img5.jpg" width="500" align="left">
   <p float="left">
     <samp>
       :3 
