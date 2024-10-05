@@ -17,7 +17,7 @@
       <br>
       <br>
       os:<br>
-        > arch linux (main), win11 with 3 vms: remnux + win11 + android emulator.
+        > manjaro linux (main), arch linux (malware analysis), win11 with 2 vms: remnux + win10
       <br>
       <br>
       tools:<br>
