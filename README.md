@@ -1,6 +1,6 @@
 <div align="center">
   <h3>autistic software engineer who loves write code and papers /ᐠ .   ̫ .マ </h3>
-  <p>java && kotlin ☕️ ・ fullstack developent 📱・mobilesec, hacking 🔒</p>
+  <p>java, js & python ☕️ ・ fullstack developent 📱・mobilesec, hacking 🔒</p>
   <a href="https://www.linkedin.com/in/xssrae" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"/></a>
   <img src="https://img.shields.io/static/v1?message=xssrae&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"/>
